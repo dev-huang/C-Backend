@@ -10,6 +10,8 @@ namespace C_Backend
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello, World!");
+            Console.WriteLine("This is a C# backend application."); 
         }
     }
 }
